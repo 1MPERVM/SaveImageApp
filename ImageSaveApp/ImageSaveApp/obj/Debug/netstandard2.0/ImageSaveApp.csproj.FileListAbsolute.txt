@@ -1,0 +1,17 @@
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.csproj.AssemblyReference.cache
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\Pages\ImagesPage.xaml.g.cs
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.AssemblyInfoInputs.cache
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.AssemblyInfo.cs
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.csproj.CoreCompileInputs.cache
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.dll
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ref\ImageSaveApp.dll
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\ImageSaveApp.pdb
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\bin\Debug\netstandard2.0\ImageSaveApp.deps.json
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\bin\Debug\netstandard2.0\ImageSaveApp.dll
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\bin\Debug\netstandard2.0\ref\ImageSaveApp.dll
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\bin\Debug\netstandard2.0\ImageSaveApp.pdb
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Guest\source\repos\ImageSaveApp\ImageSaveApp\ImageSaveApp\obj\Debug\netstandard2.0\Pages\SelectedImagePage.xaml.g.cs
